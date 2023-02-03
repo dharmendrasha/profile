@@ -117,7 +117,7 @@ export class Developer {
             ],
             experience: [
                 new Experience({
-                    company_name: "Sr Software Engineer",
+                    company_name: "ScaleTech Solutions",
                     started_at: new Date("01 mar 2021"),
                     position: "Sr. Software Engineer",
                     location: new Address(
